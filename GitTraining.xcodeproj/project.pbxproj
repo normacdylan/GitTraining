@@ -13,6 +13,7 @@
 		723FAAC62008EA4900C3B487 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 723FAAC52008EA4900C3B487 /* Assets.xcassets */; };
 		723FAAC92008EA4900C3B487 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 723FAAC72008EA4900C3B487 /* LaunchScreen.storyboard */; };
 		723FAACC2008EA4900C3B487 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 723FAACB2008EA4900C3B487 /* main.m */; };
+		723FAAD32008F23600C3B487 /* litenBild.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 723FAAD22008F23600C3B487 /* litenBild.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		723FAAC82008EA4900C3B487 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		723FAACA2008EA4900C3B487 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		723FAACB2008EA4900C3B487 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		723FAAD22008F23600C3B487 /* litenBild.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = litenBild.jpeg; path = "../../../Internet Grundkurs/Slutprojekt/litenBild.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				723FAAC02008EA4900C3B487 /* ViewController.m */,
 				723FAAC22008EA4900C3B487 /* Main.storyboard */,
 				723FAAC52008EA4900C3B487 /* Assets.xcassets */,
+				723FAAD22008F23600C3B487 /* litenBild.jpeg */,
 				723FAAC72008EA4900C3B487 /* LaunchScreen.storyboard */,
 				723FAACA2008EA4900C3B487 /* Info.plist */,
 				723FAACB2008EA4900C3B487 /* main.m */,
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				723FAAC92008EA4900C3B487 /* LaunchScreen.storyboard in Resources */,
+				723FAAD32008F23600C3B487 /* litenBild.jpeg in Resources */,
 				723FAAC62008EA4900C3B487 /* Assets.xcassets in Resources */,
 				723FAAC42008EA4900C3B487 /* Main.storyboard in Resources */,
 			);
